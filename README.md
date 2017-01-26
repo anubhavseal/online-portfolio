@@ -2,7 +2,7 @@
 
 ##Summary
 
-An Online Portfolio With Responsive Design.Adapts Dynamiaclly to different devices.
+An Online Portfolio With Responsive Design. Adapts Dynamically to different devices.
 
 ##Usage
 
