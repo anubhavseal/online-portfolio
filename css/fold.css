@@ -1,0 +1,49 @@
+.navbar-inverse{
+            background-color: #00BCD4;
+            border:0;
+            padding: 25px;
+            transition:0.3s;
+            font-family: 'Bree Serif', serif;
+            font-size: x-large;
+        }
+
+        .navbar-inverse .navbar-brand{
+            font-size: x-large;
+            color: white;
+        }
+        .navbar-inverse .navbar-nav .active>a{
+            color: white;
+            background-color: #009688;
+        }
+
+        .navbar-inverse .navbar-nav>li>a{
+            color: white;
+        }
+        .navbar-inverse .navbar-toggle {
+            border-color: white;
+        }
+        .navbar-brand span{
+                margin-right:10px;
+        }
+        .image-container img{
+
+              max-width: 100%;
+              width: 100vw;
+              height: 100vh;
+              object-fit: cover;
+        }
+        .image-container{
+            position: relative;
+        }
+        .image-container > .container-fluid{
+                position: absolute;
+                top: 45%;
+                left: 20%;
+                right: 20%;
+                padding-left: 12%;
+                padding-right: 12%;
+                max-width: 100%;
+                font-family: 'Bree Serif', serif;
+                color: white;
+                text-transform: uppercase;
+            }
