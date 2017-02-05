@@ -58,3 +58,7 @@
             color: white;
             font-family: 'Bree Serif', serif;
         }
+
+        #portfolio > h1{
+            margin-bottom: 20px;
+        }
